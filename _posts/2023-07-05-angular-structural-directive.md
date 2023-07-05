@@ -6,7 +6,7 @@ categories: angular
 
 Angular structural directive:
 - Responsible for the HTML layout
-- Shape or reshaping the DOM structure by adding or removing HTML element
+- Shape or reshaping the DOM structure by adding or removing HTML element dynamicaly
 - Can identity with leading `*` symbol
 
 Examples of structural directive:
