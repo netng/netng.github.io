@@ -26,3 +26,5 @@ Usage example:
 
 <h2>{{ price | currency: 'USD': false : '.1-3'  }}</h2>
 ```
+
+Good to read: https://angular.io/guide/pipes
