@@ -25,6 +25,14 @@ Usage example:
 <h2>{{ dcNumber | number: '1.0-0' }}</h2>
 
 <h2>{{ price | currency: 'USD': false : '.1-3'  }}</h2>
+
+<h2>{{ today | date | uppercase }}</h2>
+
+<p>{{ objValue | json }}</p>
+
+<p>{{ 0.05467 | percent: '1.1-2' }}</p>
+
+<p>{{ arrayValue | slice: 1:3 }}</p>
 ```
 
 Good to read: https://angular.io/guide/pipes
