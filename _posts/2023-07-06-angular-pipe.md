@@ -14,6 +14,8 @@ Exmaple of angular pipes:
 - `number`
 - `json`
 - `date`
+- `slice`
+- `percent`
 
 Usage example:
 
@@ -35,4 +37,4 @@ Usage example:
 <p>{{ arrayValue | slice: 1:3 }}</p>
 ```
 
-Good to read: https://angular.io/guide/pipes
+Nice to read: https://angular.io/guide/pipes
