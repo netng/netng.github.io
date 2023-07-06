@@ -20,7 +20,7 @@ Exmaple of angular pipes:
 Usage example:
 
 ```
-<h2>{{ title | lowercase }}</h2>
+"<h2>{{ title | lowercase }}</h2>
 
 <h2>{{ count | number }}</h2>
 
@@ -34,7 +34,7 @@ Usage example:
 
 <p>{{ 0.05467 | percent: '1.1-2' }}</p>
 
-<p>{{ arrayValue | slice: 1:3 }}</p>
+<p>{{ arrayValue | slice: 1:3 }}</p>"
 ```
 
 Nice to read: https://angular.io/guide/pipes
